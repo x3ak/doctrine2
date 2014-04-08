@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/orm",
+    "name": "x3ak/doctrine/orm",
     "type": "library",
     "description": "Object-Relational-Mapper for PHP",
     "keywords": ["orm", "database"],
@@ -9,7 +9,8 @@
         {"name": "Guilherme Blanco", "email": "guilhermeblanco@gmail.com"},
         {"name": "Roman Borschel", "email": "roman@code-factory.org"},
         {"name": "Benjamin Eberlei", "email": "kontakt@beberlei.de"},
-        {"name": "Jonathan Wage", "email": "jonwage@gmail.com"}
+        {"name": "Jonathan Wage", "email": "jonwage@gmail.com"},
+        {"name": "Pavel Galaton", "email": "pavel.galaton@gmail.com"}
     ],
     "minimum-stability": "dev",
     "require": {
